@@ -8,3 +8,13 @@
 section {
   padding-top: 5rem;
 }
+#Contact {
+  background-color: #96c6f0;
+}
+.galeri-img {
+  width: 100%;
+}
+
+#album .row > * {
+  padding: 0;
+}
